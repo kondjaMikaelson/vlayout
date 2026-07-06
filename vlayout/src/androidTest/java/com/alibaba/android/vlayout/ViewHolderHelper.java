@@ -46,6 +46,8 @@ public class ViewHolderHelper {
             e.printStackTrace();
         } catch (IllegalAccessException e) {
             e.printStackTrace();
+
+            //comment in July
         }
     }
 
