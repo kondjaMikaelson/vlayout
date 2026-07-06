@@ -140,6 +140,7 @@ public class VirtualLayoutManagerTest extends ActivityInstrumentationTestCase2<A
                     holder.itemView.setMinimumWidth(totalSpace + 5);
                 } else {
                     holder.itemView.setMinimumHeight(totalSpace + 5);
+                    //Comment in July
                 }
             }
         };
